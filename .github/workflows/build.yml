@@ -1,0 +1,45 @@
+name: SonarQube Analysis
+
+on:
+  push:
+    branches:
+      - main    # Анализ при пуше в main
+  pull_request:
+    types: [opened, synchronize, reopened]  # Анализ PR
+
+jobs:
+  sonarqube:
+    name: SonarQube Scan
+    runs-on: windows-latest  # Или ubuntu-latest, если предпочитаете Linux
+
+    steps:
+      # Шаг 1: Установка JDK (требуется для SonarQube Scanner)
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: 17
+          distribution: 'zulu'
+
+      # Шаг 2: Загрузка кода репозитория
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Полная история коммитов для анализа
+
+      # Шаг 3: Установка .NET SonarScanner (если проект на .NET)
+      - name: Install SonarScanner for .NET
+        run: dotnet tool install --global dotnet-sonarscanner
+
+      # Шаг 4: Анализ SonarQube
+      - name: Run SonarQube Analysis
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}  # Токен из GitHub Secrets
+        run: |
+          dotnet sonarscanner begin \
+            /k:"ghjgk1_aaa" \          # Замените на ваш ключ проекта в SonarCloud
+            /o:"ghjgk1" \              # Замените на имя организации в SonarCloud
+            /d:sonar.token="${{ secrets.SONAR_TOKEN }}" \
+            /d:sonar.host.url="https://sonarcloud.io"
+
+          dotnet build  # Сборка проекта
+
+          dotnet sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
