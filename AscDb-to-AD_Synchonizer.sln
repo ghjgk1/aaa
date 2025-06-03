@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{181C2095-0463-4D75-A548-096E610856B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{9F545859-638D-4B36-8AB3-0C6EEBCDABF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{CDB33678-58CC-49ED-A311-C18CC7C10735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncRunner", "SyncRunner\SyncRunner.csproj", "{DAFF4D61-762D-44F1-9371-658F61787E18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{C7CCD710-7192-4614-BA14-B1512C090570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AscDb-to-AD_SynchonizerTests", "AscDb-to-AD_SynchonizerTests\AscDb-to-AD_SynchonizerTests.csproj", "{792F6D46-BFAD-4D41-AFAD-50F04317061F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{181C2095-0463-4D75-A548-096E610856B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181C2095-0463-4D75-A548-096E610856B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181C2095-0463-4D75-A548-096E610856B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181C2095-0463-4D75-A548-096E610856B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F545859-638D-4B36-8AB3-0C6EEBCDABF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F545859-638D-4B36-8AB3-0C6EEBCDABF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F545859-638D-4B36-8AB3-0C6EEBCDABF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F545859-638D-4B36-8AB3-0C6EEBCDABF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB33678-58CC-49ED-A311-C18CC7C10735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB33678-58CC-49ED-A311-C18CC7C10735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB33678-58CC-49ED-A311-C18CC7C10735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB33678-58CC-49ED-A311-C18CC7C10735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFF4D61-762D-44F1-9371-658F61787E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFF4D61-762D-44F1-9371-658F61787E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFF4D61-762D-44F1-9371-658F61787E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFF4D61-762D-44F1-9371-658F61787E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792F6D46-BFAD-4D41-AFAD-50F04317061F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792F6D46-BFAD-4D41-AFAD-50F04317061F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792F6D46-BFAD-4D41-AFAD-50F04317061F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792F6D46-BFAD-4D41-AFAD-50F04317061F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{181C2095-0463-4D75-A548-096E610856B1} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{9F545859-638D-4B36-8AB3-0C6EEBCDABF4} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{CDB33678-58CC-49ED-A311-C18CC7C10735} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{DAFF4D61-762D-44F1-9371-658F61787E18} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{792F6D46-BFAD-4D41-AFAD-50F04317061F} = {C7CCD710-7192-4614-BA14-B1512C090570}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {877D0505-3EFB-4688-B555-FF198C1B230C}
+	EndGlobalSection
+EndGlobal

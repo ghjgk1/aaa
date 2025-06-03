@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\AscDb-to-AD_Synchonizer\Domain\obj\Debug\net48\Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AscDb-to-AD_Synchonizer\Domain\obj\Debug\net48\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AscDb-to-AD_Synchonizer\Domain\obj\Debug\net48\Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AscDb-to-AD_Synchonizer\Domain\obj\Debug\net48\Domain.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AscDb-to-AD_Synchonizer\Domain\obj\Debug\net48\Domain.csproj.CoreCompileInputs.cache

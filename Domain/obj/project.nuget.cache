@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0NVFNKd/uSc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.directoryservices\\9.0.5\\system.directoryservices.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

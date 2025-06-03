@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = AscDb_to_AD_SynchonizerTests
+build_property.ProjectDir = C:\Users\Administrator\source\repos\AscDb-to-AD_Synchonizer\AscDb-to-AD_SynchonizerTests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

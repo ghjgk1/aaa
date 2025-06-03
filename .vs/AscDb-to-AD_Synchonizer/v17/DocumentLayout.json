@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFF4D61-762D-44F1-9371-658F61787E18}|SyncRunner\\SyncRunner.csproj|c:\\users\\administrator\\source\\repos\\ascdb-to-ad_synchonizer\\syncrunner\\syncrunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAFF4D61-762D-44F1-9371-658F61787E18}|SyncRunner\\SyncRunner.csproj|solutionrelative:syncrunner\\syncrunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB33678-58CC-49ED-A311-C18CC7C10735}|Infrastructure\\Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\ascdb-to-ad_synchonizer\\infrastructure\\workers\\syncworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB33678-58CC-49ED-A311-C18CC7C10735}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\workers\\syncworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFF4D61-762D-44F1-9371-658F61787E18}|SyncRunner\\SyncRunner.csproj|c:\\users\\administrator\\source\\repos\\ascdb-to-ad_synchonizer\\syncrunner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAFF4D61-762D-44F1-9371-658F61787E18}|SyncRunner\\SyncRunner.csproj|solutionrelative:syncrunner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB33678-58CC-49ED-A311-C18CC7C10735}|Infrastructure\\Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\ascdb-to-ad_synchonizer\\infrastructure\\data\\efsyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB33678-58CC-49ED-A311-C18CC7C10735}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\efsyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181C2095-0463-4D75-A548-096E610856B1}|Application\\Application.csproj|c:\\users\\administrator\\source\\repos\\ascdb-to-ad_synchonizer\\application\\syncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181C2095-0463-4D75-A548-096E610856B1}|Application\\Application.csproj|solutionrelative:application\\syncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFF4D61-762D-44F1-9371-658F61787E18}|SyncRunner\\SyncRunner.csproj|c:\\users\\administrator\\source\\repos\\ascdb-to-ad_synchonizer\\syncrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFF4D61-762D-44F1-9371-658F61787E18}|SyncRunner\\SyncRunner.csproj|solutionrelative:syncrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792F6D46-BFAD-4D41-AFAD-50F04317061F}|AscDb-to-AD_SynchonizerTests\\AscDb-to-AD_SynchonizerTests.csproj|c:\\users\\administrator\\source\\repos\\ascdb-to-ad_synchonizer\\ascdb-to-ad_synchonizertests\\infrastructure.directory.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792F6D46-BFAD-4D41-AFAD-50F04317061F}|AscDb-to-AD_SynchonizerTests\\AscDb-to-AD_SynchonizerTests.csproj|solutionrelative:ascdb-to-ad_synchonizertests\\infrastructure.directory.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB33678-58CC-49ED-A311-C18CC7C10735}|Infrastructure\\Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\ascdb-to-ad_synchonizer\\infrastructure\\data\\ascdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB33678-58CC-49ED-A311-C18CC7C10735}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\ascdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB33678-58CC-49ED-A311-C18CC7C10735}|Infrastructure\\Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\ascdb-to-ad_synchonizer\\infrastructure\\directory\\ldapsyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB33678-58CC-49ED-A311-C18CC7C10735}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\directory\\ldapsyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SyncRunner",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\SyncRunner\\SyncRunner.csproj",
+              "RelativeDocumentMoniker": "SyncRunner\\SyncRunner.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\SyncRunner\\SyncRunner.csproj",
+              "RelativeToolTip": "SyncRunner\\SyncRunner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T08:45:48.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SyncWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Infrastructure\\Workers\\SyncWorker.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Workers\\SyncWorker.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Infrastructure\\Workers\\SyncWorker.cs",
+              "RelativeToolTip": "Infrastructure\\Workers\\SyncWorker.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAawCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:43:32.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SyncService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Application\\SyncService.cs",
+              "RelativeDocumentMoniker": "Application\\SyncService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Application\\SyncService.cs",
+              "RelativeToolTip": "Application\\SyncService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:27:06.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AscDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Infrastructure\\Data\\AscDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AscDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Infrastructure\\Data\\AscDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AscDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:11:28.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfSyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Infrastructure\\Data\\EfSyncRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\EfSyncRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Infrastructure\\Data\\EfSyncRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\EfSyncRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:10:12.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\SyncRunner\\Program.cs",
+              "RelativeDocumentMoniker": "SyncRunner\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\SyncRunner\\Program.cs",
+              "RelativeToolTip": "SyncRunner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:40:01.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LdapSyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Infrastructure\\Directory\\LdapSyncRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Directory\\LdapSyncRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\Infrastructure\\Directory\\LdapSyncRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Directory\\LdapSyncRepository.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAowHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:16:55.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Infrastructure.Directory.Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\AscDb-to-AD_SynchonizerTests\\Infrastructure.Directory.Tests.cs",
+              "RelativeDocumentMoniker": "AscDb-to-AD_SynchonizerTests\\Infrastructure.Directory.Tests.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\AscDb-to-AD_SynchonizerTests\\Infrastructure.Directory.Tests.cs",
+              "RelativeToolTip": "AscDb-to-AD_SynchonizerTests\\Infrastructure.Directory.Tests.cs",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAjwKsBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:07:40.795Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\SyncRunner\\appsettings.json",
+              "RelativeDocumentMoniker": "SyncRunner\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AscDb-to-AD_Synchonizer\\SyncRunner\\appsettings.json",
+              "RelativeToolTip": "SyncRunner\\appsettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T09:58:11.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
